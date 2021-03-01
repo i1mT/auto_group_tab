@@ -4,4 +4,4 @@
 
 Require: chrome 89+
 
-> 2021.3.1 目前使用 Chrome beta
+> 2021.3.1 目前使用 Chrome beta: https://www.google.com/intl/zh-CN/chrome/beta/
