@@ -1,2 +1,3 @@
 # auto_group_tab
-A chrome extension.
+
+可以帮你自动对Chrome tab 分组.

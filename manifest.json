@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "AutoGroupTab",
+  "description": "TTT,A chrome extension to proxy mock api.",
+  "version": "1.1",
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["tabGroups", "tabs", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
