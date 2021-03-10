@@ -42,4 +42,7 @@ git clone https://github.com/i1mT/auto_group_tab.git
 然后，当你打开某一关键字的tab，或改变当前tab的url时，它都会将该tab自动归类到你设置的组中。
 
 
-Require: chrome 89+
+## 版本要求
+尽管Chrome已经在好几个版本之前开始支持 tab 分组，但是对Tab group的 API 从89才开始。
+
+**所以此插件要求：Chrome版本 89+**
