@@ -10,7 +10,7 @@ function assignToGroup(tabid, groupName) {
   chrome.tabGroups.query(
     {
       title: groupName,
-      windowId: -2,
+      windowId: chrome.windows.WINDOW_ID_CURRENT,
     },
     result => {
       if (result && result.length) {
